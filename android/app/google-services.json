@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "277965878179",
+    "project_id": "voyagym-2f22f",
+    "storage_bucket": "voyagym-2f22f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277965878179:android:62b97d8b95060999f3a016",
+        "android_client_info": {
+          "package_name": "com.voyagym.voyagymapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277965878179-n6vgugeissgc4kvtbr1m44rifousd1fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLf0QMtpmYmrUYlnOkhAT_M3n2JTe8XXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277965878179-n6vgugeissgc4kvtbr1m44rifousd1fu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
